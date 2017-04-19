@@ -1,0 +1,11 @@
+{
+  "name": "porter2",
+  "version": "1.0.0",
+  "description": "An app detailing the carriage of VibrantTV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kent Howard",
+  "license": "ISC"
+}
